@@ -9,4 +9,5 @@
 7. https://github.com/reedscot/icml2016  
 8. https://arxiv.org/pdf/1710.02726.pdf  
 9. http://matthewalunbrown.com/papers/ijcv2007.pdf  
+10. https://arxiv.org/pdf/1611.08050.pdf  
 
