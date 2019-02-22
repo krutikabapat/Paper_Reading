@@ -10,4 +10,6 @@
 8. https://arxiv.org/pdf/1710.02726.pdf  
 9. http://matthewalunbrown.com/papers/ijcv2007.pdf  
 10. https://arxiv.org/pdf/1611.08050.pdf  
+11. https://arxiv.org/abs/1602.07360.  
+
 
