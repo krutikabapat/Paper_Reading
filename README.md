@@ -1,6 +1,6 @@
 # Paper_Reading
 
-1. FRRN from arxiv  
+1. (https://arxiv.org/abs/1611.08323) (FRRN - Full Resolution Residual Networks)    
 2. Voice Transcription  
 3. Natural Language Object Retrieval  
 4. https://github.com/terryum/awesome-deep-learning-papers    
@@ -13,5 +13,5 @@
 11. https://arxiv.org/abs/1602.07360.  
 12. https://arxiv.org/pdf/1804.02864.pdf  
 13. https://arxiv.org/pdf/1802.10062.pdf
-14. https://arxiv.org/abs/1704.00051 (DRQA NLP Task)  
+14. https://arxiv.org/abs/1704.00051 (DRQA - Dcoument Reader Question Answering NLP Task)  
 
