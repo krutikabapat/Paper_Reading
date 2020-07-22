@@ -13,4 +13,5 @@
 11. https://arxiv.org/pdf/1802.10062.pdf
 12. https://arxiv.org/abs/1704.00051 (DRQA - Dcoument Reader Question Answering NLP Task)  
 13. https://arxiv.org/abs/1804.09541 (QANet)    
+14. https://arxiv.org/pdf/1706.09789 (Two stage Machine Comprehension Technique for QA Generation)    
 
