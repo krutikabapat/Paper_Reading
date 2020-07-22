@@ -3,7 +3,7 @@
 1. (https://arxiv.org/abs/1611.08323) (FRRN - Full Resolution Residual Networks)    
 2. https://github.com/terryum/awesome-deep-learning-papers    
 3. https://github.com/reedscot/icml2016  
-4. https://github.com/ruotianluo/ImageCaptioning.pytorch  
+4. https://github.com/ruotianluo/ImageCaptioning.pytorch  (Image Captioning using Pytorch)    
 5. https://github.com/reedscot/icml2016  
 6. https://arxiv.org/pdf/1710.02726.pdf  
 7. http://matthewalunbrown.com/papers/ijcv2007.pdf  
