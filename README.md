@@ -1,7 +1,7 @@
 # Paper_Reading
 
 1. (https://arxiv.org/abs/1611.08323) (FRRN - Full Resolution Residual Networks)    
-2. https://github.com/terryum/awesome-deep-learning-papers    
+2. https://github.com/terryum/awesome-deep-learning-papers (Deep Learning Based Papers)    
 3. https://github.com/reedscot/icml2016  
 4. https://github.com/ruotianluo/ImageCaptioning.pytorch  (Image Captioning using Pytorch)    
 5. https://github.com/reedscot/icml2016  
