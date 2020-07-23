@@ -11,7 +11,8 @@
 9. https://arxiv.org/abs/1602.07360.  
 10. https://arxiv.org/pdf/1804.02864.pdf  
 11. https://arxiv.org/pdf/1802.10062.pdf
-12. https://arxiv.org/abs/1704.00051 (DRQA - Dcoument Reader Question Answering NLP Task)  
+12. https://arxiv.org/abs/1704.00051 (DRQA - Document Reader Question Answering NLP Task)  
 13. https://arxiv.org/abs/1804.09541 (QANet)    
 14. https://arxiv.org/pdf/1706.09789 (Two stage Machine Comprehension Technique for QA Generation)    
+15. https://paperswithcode.com/task/paraphrase-generation (Paraphrasing)    
 
